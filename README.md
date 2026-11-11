@@ -7,9 +7,9 @@
 
 ## 1. Live Deployment & GitHub Repository
 
-- 🚀 **Live API Base URL:** `https://movie-management-lab-3.onrender.com` *(Placeholder – Deploy via Render)*
-- 🎬 **GET All Movies Endpoint:** `https://movie-management-lab-3.onrender.com/movies`
-- 🔍 **GET Search & Filter Sample:** `https://movie-management-lab-3.onrender.com/movies?search_q=Avatar&order_by=rating&order=DESC`
+- 🚀 **Live API Base URL:** [https://dharmiksatya-lab-3.onrender.com](https://dharmiksatya-lab-3.onrender.com)
+- 🎬 **GET All Movies Endpoint:** [https://dharmiksatya-lab-3.onrender.com/movies](https://dharmiksatya-lab-3.onrender.com/movies)
+- 🔍 **GET Search & Filter Sample:** [https://dharmiksatya-lab-3.onrender.com/movies?search_q=Avatar&order_by=rating&order=DESC](https://dharmiksatya-lab-3.onrender.com/movies?search_q=Avatar&order_by=rating&order=DESC)
 - 📦 **GitHub Repository:** [https://github.com/mdharmiksatya/DharmikSatya_Lab-3](https://github.com/mdharmiksatya/DharmikSatya_Lab-3)
 
 ---
