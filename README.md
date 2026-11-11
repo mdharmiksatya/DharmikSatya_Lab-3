@@ -1,7 +1,6 @@
-﻿# Lab 3: Movie Management REST API
+# Lab 3: Movie Management REST API
 
 **Backend Development Fundamentals (BDF) • Year II Term II**  
-**Faculty:** CH SIVA SAI TEJA  
 **Environment:** Node.js (v24.14.0) | Express.js (v4.21.2) | SQLite (v3.46.1) | Windows 11  
 
 ---
@@ -23,7 +22,6 @@
 | **Registration Number** | 252U1R5075 |
 | **Section** | 106 AI/DE-1A |
 | **Course** | Backend Development Fundamentals (BDF) |
-| **Faculty** | CH SIVA SAI TEJA |
 | **Lab Assignment** | Lab 03 – REST API, Query Parameters, Validation & Debugging |
 
 ---
@@ -294,8 +292,7 @@ GET /movies?search_q=The&order_by=rating&order=DESC&limit=5&offset=0&min_price=1
   "student": {
     "name": "M Dharmik Satya",
     "registrationNumber": "252U1R5075",
-    "section": "106 AI/DE-1A",
-    "faculty": "CH SIVA SAI TEJA"
+    "section": "106 AI/DE-1A"
   },
   "status": "Server and Database Active",
   "endpoints": [ ... ]

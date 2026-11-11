@@ -1,4 +1,4 @@
-﻿const express = require('express');
+const express = require('express');
 const cors = require('cors');
 const { initializeDB } = require('./database/database');
 const moviesRouter = require('./routes/movies');
@@ -22,8 +22,7 @@ app.get('/', (req, res) => {
     student: {
       name: 'M Dharmik Satya',
       registrationNumber: '252U1R5075',
-      section: '106 AI/DE-1A',
-      faculty: 'CH SIVA SAI TEJA'
+      section: '106 AI/DE-1A'
     },
     status: 'Server and Database Active',
     supportedFeatures: [

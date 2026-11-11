@@ -1,4 +1,4 @@
-﻿const http = require('http');
+const http = require('http');
 const app = require('./app');
 const { initializeDB } = require('./database/database');
 
@@ -53,7 +53,7 @@ async function runTests() {
         const res = await request('/');
         assert(res.status === 200, 'Root / returns 200 OK');
         assert(res.data.project === 'Movie Management REST API', 'Root returns project name');
-        assert(res.data.student.faculty === 'CH SIVA SAI TEJA', 'Root returns faculty CH SIVA SAI TEJA');
+        assert(res.data.student.registrationNumber === '252U1R5075', 'Root returns registration number 252U1R5075');
         assert(res.data.student.name === 'M Dharmik Satya', 'Root returns student name');
         assert(Array.isArray(res.data.endpoints), 'Root returns endpoints array');
       }
