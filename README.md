@@ -10,7 +10,7 @@
 - 🚀 **Live API Base URL:** `https://movie-management-lab-3.onrender.com` *(Placeholder – Deploy via Render)*
 - 🎬 **GET All Movies Endpoint:** `https://movie-management-lab-3.onrender.com/movies`
 - 🔍 **GET Search & Filter Sample:** `https://movie-management-lab-3.onrender.com/movies?search_q=Avatar&order_by=rating&order=DESC`
-- 📦 **GitHub Repository:** `https://github.com/mdharmiksatya/movie-management-lab-3` *(Configurable remote)*
+- 📦 **GitHub Repository:** [https://github.com/mdharmiksatya/DharmikSatya_Lab-3](https://github.com/mdharmiksatya/DharmikSatya_Lab-3)
 
 ---
 
